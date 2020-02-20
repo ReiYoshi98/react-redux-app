@@ -1,3 +1,5 @@
+## Project-planner
+
 Project-plan web app project which was created following online tutorials by the net-ninja.co.uk. 
 A React-redux based front-end connected with a Firabase backend server.
 
